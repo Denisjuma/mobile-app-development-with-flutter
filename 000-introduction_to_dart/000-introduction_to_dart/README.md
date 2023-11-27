@@ -1,4 +1,3 @@
-*------------GROUP NO 1 ------------------*
 The root folder => 000-introduction_to_dart
 question no 0 => 0-hello.dart
 question no 1 => 1-smallest_int.dart
