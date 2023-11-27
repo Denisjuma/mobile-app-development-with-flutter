@@ -1,0 +1,12 @@
+*------------GROUP NO 1 ------------------*
+The root folder => 000-introduction_to_dart
+question no 0 => 0-hello.dart
+question no 1 => 1-smallest_int.dart
+question no 2 => 2-search_int.dart
+question no 3 => 3-print_triangle.dart
+question no 4 => 4-factorize.dart
+question no 5 => 5-sum_even.dart
+question no 6 => 6-char_frequency.dart
+question no 7 => 7-is_prime.dart
+question no 8 => 8-two_indices.dart
+question no 9 => 9-int_to_roman.dart
